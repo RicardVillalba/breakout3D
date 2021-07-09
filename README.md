@@ -1,2 +1,2 @@
-# breakout3D
-It's a Breakout clone in 3D
+# Breakout3D
+ It is a Breakout clone in 3D
